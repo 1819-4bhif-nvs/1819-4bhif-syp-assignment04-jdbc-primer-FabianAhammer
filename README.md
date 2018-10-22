@@ -1,4 +1,4 @@
-# 1819-4bhif-nvs-jdbc-primer
+# 1819-4bhif-syp-assignment04-jdbc-primer-FabianAhammer
 Create a simple JavaSE jdbc application (CRUD + metadata)
 
 # Übung JDBC CRUD
